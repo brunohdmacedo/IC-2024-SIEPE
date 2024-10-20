@@ -3,7 +3,7 @@
 **B. H. D. Macedo**, Graduando em Engenharia Física. Universidade Federal da Integração Latino-Americana - UNILA. ORCID: https://orcid.org/0000-0002-8152-0950 - E-mail: brunohdmacedo@gmail.com
 
 **W. Zalewski**, Doutor em Ciência da Computação. Universidade Federal da Integração Latino-Americana - UNILA. ORCID: https://orcid.org/0000-0002-7113-5135 - E-mail: willian.zalewski@unila.edu.br
-![Exoplanet](https://didatico.igc.usp.br/wp-content/uploads/2017/09/colagem.png)
+![Mineirios](https://didatico.igc.usp.br/wp-content/uploads/2017/09/colagem.png)
 
 ## Resumo:
 
@@ -23,3 +23,6 @@ o CCDC é usado para materiais não cristalinos.
 
 ### Palavras-chave: 
 Ciência dos Materiais. ML. Aprendizado de Máquina. Raman.
+
+![Resultados Tabela](https://raw.githubusercontent.com/brunohdmacedo/IC-2024-SIEPE/refs/heads/main/Tabela%20de%20Resultados.png)
+![Resultados Gráficos](https://raw.githubusercontent.com/brunohdmacedo/IC-2024-SIEPE/refs/heads/main/Gr%C3%A1fico%20de%20Resultados.png)
