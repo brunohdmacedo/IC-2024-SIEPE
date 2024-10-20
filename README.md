@@ -24,5 +24,4 @@ o CCDC é usado para materiais não cristalinos.
 ### Palavras-chave: 
 Ciência dos Materiais. ML. Aprendizado de Máquina. Raman.
 
-![Resultados Tabela](https://raw.githubusercontent.com/brunohdmacedo/IC-2024-SIEPE/refs/heads/main/Tabela%20de%20Resultados.png)
-![Resultados Gráficos](https://raw.githubusercontent.com/brunohdmacedo/IC-2024-SIEPE/refs/heads/main/Gr%C3%A1fico%20de%20Resultados.png)
+![Resultados Tabela](https://raw.githubusercontent.com/brunohdmacedo/IC-2024-SIEPE/refs/heads/main/Tabela%20de%20Resultados.png) ![Resultados Gráficos](https://raw.githubusercontent.com/brunohdmacedo/IC-2024-SIEPE/refs/heads/main/Gr%C3%A1fico%20de%20Resultados.png)
